@@ -11,7 +11,7 @@ pool:
 
 steps:
 - script: echo Hello,kk world!
-  displayName: 'Run a one-lijbjkbkbjnne jukuscript'
+  displayName: 'Run a one-lijbjkbkjbjkbjnne jukuscript'
 
 - script: |
     echo Add other tasks to build, test, and depljiy your project.
