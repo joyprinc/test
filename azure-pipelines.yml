@@ -11,7 +11,7 @@ pool:
 
 steps:
 - script: echo Hello,kk world!
-  displayName: 'Run a one-lijbjkbkjbjkbjvhgnne dnvhjnkbkjacv xnhpkjukuscript'
+  displayName: 'Run a one-lijbjkbkjbjkhjvhvjhbjvhgnne dnvhjnkbkjacv xnhpkjukuscript'
 
 - script: |
     echo Add other tasks to build, test, and depljiy your project.
